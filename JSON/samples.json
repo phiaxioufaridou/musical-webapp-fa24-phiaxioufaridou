@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "million",
+    "file": "samples/million.wav",
+    "bpm": "100",
+    "loop": "1m"
+  },
+  {
+    "name": "atlantis",
+    "file": "samples/atlantis.wav",
+    "bpm": "100",
+    "loop": "1m"
+  },
+  {
+    "name": "fire rain",
+    "file": "samples/firerain.wav",
+    "bpm": "100",
+    "loop": "1m"
+  }
+]
