@@ -1,27 +1,9 @@
 [
   {
-    "name": "million",
-    "file": "samples/million.wav",
-    "bpm": "100",
-    "loop": "1m"
-  },
-  {
-    "name": "atlantis",
-    "file": "samples/atlantis.wav",
-    "bpm": "100",
-    "loop": "1m"
-  },
-  {
-    "name": "fire rain",
-    "file": "samples/firerain.wav",
-    "bpm": "100",
-    "loop": "1m"
-  },
-  {
     "name": "AUDIO 11",
     "file": "samples/AUDIO11.wav",
     "bpm": "80",
-    "loop": "6"
+    "loop": "6m"
   },
   {
     "name": "AUDIO 12",
