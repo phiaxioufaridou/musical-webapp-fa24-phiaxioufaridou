@@ -16,5 +16,23 @@
     "file": "samples/firerain.wav",
     "bpm": "100",
     "loop": "1m"
+  },
+  {
+    "name": "AUDIO 11",
+    "file": "samples/AUDIO11.wav",
+    "bpm": "80",
+    "loop": "6"
+  },
+  {
+    "name": "AUDIO 12",
+    "file": "samples/AUDIO12.wav",
+    "bpm": "80",
+    "loop": "1m"
+  },
+  {
+    "name": "AUDIO 13",
+    "file": "samples/AUDIO13.wav",
+    "bpm": "80",
+    "loop": "1m"
   }
 ]
